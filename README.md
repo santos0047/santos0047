@@ -1,6 +1,5 @@
 ## Olá! eu sou o God 👋
 
-- 🔭 Trabalhando atualmente em Troick Studio...
 - 🌱 Estudando typescript...
 - 😄 Pronomes: Ele/Dele
 
